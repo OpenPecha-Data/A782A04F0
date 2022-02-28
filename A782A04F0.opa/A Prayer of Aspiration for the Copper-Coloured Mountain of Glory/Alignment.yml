@@ -1,0 +1,19 @@
+segment_sources:
+  P35AC087F:
+    type: origin_type
+    relation: translation
+    language: en
+  PC37C38C2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6f0fb9b61d0e4a7cbafaf2987cd32dbb:
+    P35AC087F: 903c10d7c23049fd83e078ffe5e022d2
+    PC37C38C2: 5392bba22fe645ffae37e208bff3c83e
+  5c6f52e7b8b24537aa069ed27deb5458:
+    P35AC087F: c39e8271cbbf4084a3dd58945d2475d1
+    PC37C38C2: 0149220e49e349e2983c304c941128b6
+  72621793a1414ff2bee36e26deb25c66:
+    P35AC087F: 5c37a12994b64598a8a3f6a6fbf9108d
+    PC37C38C2: 2928ca6bc014444a8d71a0ef3280794a
